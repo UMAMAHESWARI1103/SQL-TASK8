@@ -36,5 +36,5 @@ The database is based on a **Hospital Management System** containing multiple re
 - Functions return single values and can be embedded in queries.
 - Both can improve performance and reduce repetitive code.
 
-## 🗑 Dropping
+##  Dropping
 Stored procedures and functions can be dropped when no longer needed to keep the database clean.
